@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">8_5ModelLoadingCity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="splashTitle">Menu Utama (Menampilkan Daftar Semua Aplikasi) :</string>
+    <string name="projectUrl">Thank to 1 : http://code.google.com/p/min3d</string>
+    <string name="myBlogUrl">Thank to 2 : http://www.zeropointnine.com/blog</string>
+
+</resources>
